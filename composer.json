@@ -1,0 +1,13 @@
+{
+    "name": "monmohon/wpzoho",
+    "description": "WP API to ZOHO CRM",
+    "authors": [
+        {
+            "name": "Mon Mohon",
+            "email": "monmohon@gmail.com"
+        }
+    ],
+    "require": {
+        "zohocrm/php-sdk": "^2.0"
+    }
+}
