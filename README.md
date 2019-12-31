@@ -1,6 +1,5 @@
 # zohov2
 
-Update composer
 
 open zoho_execute.php
 
